@@ -1,0 +1,17 @@
+.si-menu
+{
+    color: #0b2f66 !important;
+}
+.si-menu li a:hover
+{
+    color: darkred !important;
+}
+
+.rep-menu-list
+{
+    display: flex;
+    color: #0b2f66;
+    align-items: center;
+    text-decoration: none;
+    margin-left: -20px;
+}
